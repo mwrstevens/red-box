@@ -1,6 +1,6 @@
-# red-box
+# GREEN BOX, RED BOX
 
-# this repository contains the data file for the initial validation of the green box red box approach (see King, Billieux & Delfabbro, 2024), to assessing gaming-related harm.
+# this repository contains the data file for the initial validation of the Green Box, Red Box approach (see King, Billieux & Delfabbro, 2024), to assessing gaming-related harm.
 # the the data file (red_box.xlsx) has been de-identified and is available for interrogation
 
 # the red_box.R code is an R script which provides the code used to analyse all results, and generate all figures and tables associated with the manuscript submission to addiciton. 
